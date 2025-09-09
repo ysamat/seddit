@@ -107,8 +107,5 @@ seddit/
     pip install django==5.2
     ```
 
-## Contributing
-This project was created as a homework assignment. Contributions are welcome for educational purposes! Feel free to fork, submit issues, or create pull requests.
-
 ## License
 This project is unlicensed and intended for educational use.
