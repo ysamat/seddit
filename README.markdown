@@ -1,7 +1,7 @@
 # Seddit
 
 ## Overview
-Seddit is a Reddit-inspired web application built with Django, designed as a homework assignment (HW4). It allows users to sign up, log in, create posts, comment, upvote, and explore subseddits (tag-based forums). The project features a responsive design styled with Tailwind CSS and includes basic CRUD operations for a social media-like experience.
+Seddit is a Reddit-inspired web application built with Django. It allows users to sign up, log in, create posts, comment, upvote, and explore subseddits (tag-based forums). The project features a responsive design styled with Tailwind CSS and includes basic CRUD operations for a social media-like experience.
 
 ## Features
 - **User Authentication**: Sign up, log in, and log out functionality.
